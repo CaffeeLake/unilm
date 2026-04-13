@@ -17,14 +17,14 @@ fraction
 torch==2.3.1
 vllm==0.5.2
 hydra-core==1.3.2
-transformers==4.42.4
+transformers==5.0.0rc3
 deepspeed==0.13.2
 peft==0.10.0
 accelerate==0.30.1
 fairscale==0.4.13
 wandb==0.17.0
-sentencepiece==0.2.0
+sentencepiece==0.2.1
 pandas==2.2.2
-nltk==3.8.1
+nltk==3.9.4
 einops==0.8.0
 bitsandbytes==0.43.1
