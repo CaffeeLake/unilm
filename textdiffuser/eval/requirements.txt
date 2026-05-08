@@ -1,4 +1,4 @@
-diffusers==0.16.0
+diffusers==0.38.0
 torch==2.0.1
 pycocoevalcap
 pytorch_fid
